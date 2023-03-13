@@ -184,7 +184,6 @@ Internationalization and Natural Language Processing
   + App::ForkProve
   + Test::Aggregate?
 * Test output
-  + Test::Differences
   + Test::Deep
   + Test::Pretty?
 * Completeness
