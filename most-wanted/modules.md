@@ -164,6 +164,7 @@ Internationalization and Natural Language Processing
 * Pandas Binding (WIP: [Dan::Pandas](https://github.com/librasteve/Dan/Pandas))
 * Polars Binding (WIP: [Dan::Polars](https://github.com/librasteve/Dan/Polars))
 * [Arrow](https://arrow.apache.org/docs/format/Columnar.html) Binding 
+* CBOR2 (eg. similar to Python / C version) [CBOR2](https://pypi.org/project/cbor2/)
 
 ## Text processing
 
